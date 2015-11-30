@@ -32,6 +32,7 @@ public class Correll_4_guessinggame {
         guesses-- ;
     }
     }
+    
 static void pickNumber() {
     System.out.println("Pick a Number, any Number!");
     Scanner guess = new Scanner(System.in);
